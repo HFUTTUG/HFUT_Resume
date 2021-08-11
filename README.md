@@ -1,5 +1,6 @@
 ## 合肥工业大学个人简历 LaTeX 模板
 
+[![Homepage Deploy](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/page_deploy.yml/badge.svg)](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/page_deploy.yml)
 [![Tex Build Test](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/tex_build_test.yml/badge.svg)](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/tex_build_test.yml)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HFUTTUG.HFUT_Resume)
 
