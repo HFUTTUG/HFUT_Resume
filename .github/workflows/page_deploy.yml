@@ -29,8 +29,8 @@ jobs:
       - name: Update gh-pages
         run: |
           git fetch origin gh-pages:gh-pages
-          mkdir docs
-          python gen-md.py
-          cp README.md ./docs/index.md
+          # mkdir docs
+          # python gen-md.py
+          # cp README.md ./docs/index.md
           mkdocs gh-deploy --config-file ./mkdocs.yml
-          rm -rf site docs
+          # rm -rf site docs
