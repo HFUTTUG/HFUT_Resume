@@ -4,6 +4,7 @@
 [![Homepage Deploy](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/page_deploy.yml/badge.svg)](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/page_deploy.yml)
 [![Tex Build Test](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/tex_build_test.yml/badge.svg)](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/tex_build_test.yml)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HFUTTUG.HFUT_Resume)
+[**模板实例**](https://HFUTTUG.github.io/HFUT_Letter/main.pdf) 
 
 项目主页：[HFUT_Resume Github Page](https://HFUTTUG.github.io/HFUT_Resume)
 
