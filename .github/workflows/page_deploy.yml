@@ -48,6 +48,14 @@ jobs:
           rm -rf hfutbadges
     # <<< generate pdf <<<
 
+    # >>> generate packages >>>
+      - name: Generate packages
+        run: |
+          git clone --recursive https://github.com/HFUTTUG/HFUT_Resume.git
+          zip -r docs/HFUT_HFUT_Resume.zip HFUT_Resume
+          rm -rf HFUT_Resume
+    # <<< generate packages <<<
+
     # >>> build page >>>
       - name: Set up Python 3.9
         uses: actions/setup-python@v2
