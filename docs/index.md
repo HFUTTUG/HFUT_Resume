@@ -4,7 +4,12 @@
 [![Homepage Deploy](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/page_deploy.yml/badge.svg)](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/page_deploy.yml)
 [![Tex Build Test](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/tex_build_test.yml/badge.svg)](https://github.com/HFUTTUG/HFUT_Resume/actions/workflows/tex_build_test.yml)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HFUTTUG.HFUT_Resume)
+
+<br><br>
+
 [**模板实例**](https://HFUTTUG.github.io/HFUT_Resume/main.pdf) 
+<br>
+[**latest release**](https://HFUTTUG.github.io/HFUT_Resume/HFUT_Resume.zip)
 
 项目主页：[HFUT_Resume Github Page](https://HFUTTUG.github.io/HFUT_Resume)
 
